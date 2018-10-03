@@ -1,0 +1,20 @@
+﻿"2018_summer																			",,,,,,,,,,,,,,,,,,,,
+Jungle,KDA,킬관여율,KT_Score,KT_Rush,FIN_Tarzan,KZ_Cuzz,KZ_Peanut,Gen_G_Ambition,Gen_G_Haru,Afreeca_Spirit,Afreeca_Mowgli,HLE_SeongHwan,HLE_Mightybear,SKT_T1_Blank,SKT_T1_Blossom,Jin_Air_Umti,Jin_Air_KaKAO,MVP_Yondu,BBQ_Bono,BBQ_Trick
+KT_Score,3.7,0.703,x,x,0.8,x,0.333,1,1,0.5,0.667,0.5,x,0.5,x,0.667,x,1,x,1
+KT_Rush,1.9,0.596,x,x,x,x,0,x,x,0,x,x,x,x,x,1,x,x,x,1
+FIN_Tarzan,6.5,0.751,0.2,x,x,1,1,0.25,1,0.5,x,0.8,x,1,x,0.333,1,1,x,0.8
+KZ_Cuzz,2,0.567,x,x,0,x,x,0.5,0,0,x,0,x,1,x,0.333,x,1,x,x
+KZ_Peanut,4.6,0.669,0.667,1,0,x,x,0,x,1,0.5,0.8,x,1,x,0.5,1,1,x,1
+Gen_G_Ambition,3,0.717,0,x,0.25,0.5,1,x,x,0.5,x,1,x,0,x,0.667,x,1,x,0.75
+Gen_G_Haru,3.3,0.708,0,x,0,1,x,x,x,0,x,0.5,x,0.5,1,1,x,1,x,1
+Afreeca_Spirit,4.1,0.711,0.5,1,0.5,1,0,0.5,1,x,x,0.4,x,1,x,0.75,x,0.8,x,0.6
+Afreeca_Mowgli,4,0.626,0.333,x,x,x,0.5,x,x,x,x,0,x,0.667,x,1,x,x,x,x
+HLE_SeongHwan,3.1,0.75,0.5,x,0.2,1,0.2,0,0.5,0.6,1,x,x,0.5,x,0.8,x,1,1,0.667
+HLE_Mightybear,5,1,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x
+SKT_T1_Blank,3.4,0.747,0.5,x,0,0,0,1,0.5,0,0.333,0.5,0,x,x,1,1,0.667,x,0.8
+SKT_T1_Blossom,1.5,0.66,x,x,x,x,x,x,0,x,x,x,x,x,x,x,x,0.333,x,x
+Jin_Air_Umti,2.5,0.722,0.333,0,0.667,0.667,0.5,0.333,0,0.25,0,0.2,x,0,x,x,x,0.4,1,0.333
+Jin_Air_KaKAO,0.6,0.458,x,x,0,x,0,x,x,x,x,x,x,0,x,x,x,x,x,x
+MVP_Yondu,2.2,0.76,0,x,0,0,0,0,0,0.2,x,0,x,0.333,0.667,0.6,x,x,1,0.5
+BBQ_Bono,1.1,0.826,x,x,x,x,x,x,x,x,x,0,x,x,x,0,x,0,x,x
+BBQ_Trick,2.4,0.769,0,0,0.2,x,0,0.25,0,0.4,x,0.333,x,0.2,x,0.667,x,0.5,x,x

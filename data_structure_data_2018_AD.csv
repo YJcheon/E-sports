@@ -1,0 +1,17 @@
+﻿"2018_summer																			",,,,,,,,,,,,,,,,,
+AD,KDA,킬관여율,KT_Deft,FIN_Viper,KZ_Pray,Gen_G_Ruler,Afreeca_Kramer,Afreeca_Aiming,HLE_Sangyoon,HLE_Clever,SKT_T1_Bang,SKT_T1_Leo,Jin_Air_Teddy,MVP_Maha,MVP_Pilot,BBQ_Ghost,BBQ_Aries
+KT_Deft,4.4,0.641,x,0.8,0.2,1,0.667,0.333,0.5,x,0.5,x,0.8,x,1,1,x
+FIN_Viper,7,0.663,0.22,x,1,0.4,1,0.333,0.8,x,1,x,0.6,1,1,0.8,x
+KZ_Pray,4.4,0.581,0.8,0,x,0.2,0.5,1,0.667,x,1,x,0.5,1,1,1,x
+Gen_G_Ruler,5.1,0.739,0,0.6,0.8,x,x,0.4,0.667,x,0.6,x,0.8,x,1,0.8,x
+Afreeca_Kramer,6.9,0.707,0.333,0,0.5,x,x,x,0,x,x,x,0.75,x,x,x,x
+Afreeca_Aiming,5.1,0.691,0.667,0.667,0,0.6,x,x,0.4,x,0.8,x,1,x,0.8,0.6,x
+HLE_Sangyoon,5.5,0.655,0.5,0.2,0.333,0.333,1,0.6,x,x,0.5,x,0.8,x,1,0.667,1
+HLE_Clever,4,0.8,x,x,x,x,x,x,x,x,0,x,x,x,x,x,x
+SKT_T1_Bang,5,0.69,0.5,0,0,0.4,x,0.2,0.5,1,x,x,1,x,0.667,0.8,x
+SKT_T1_Leo,4.8,0.707,x,x,x,x,x,x,x,x,x,x,x,x,0.333,x,x
+Jin_Air_Teddy,3.1,0.653,0.2,0.4,0.5,0.2,0.25,0,0.2,x,0,x,x,x,0.4,0.6,x
+MVP_Maha,0.9,0.406,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x
+MVP_Pilot,3.8,0.694,0,0,0,0,x,0.2,0,x,0.333,0.667,0.6,x,x,0.667,1
+BBQ_Ghost,2.1,0.563,0,0.2,0,0.2,x,0.4,0.333,x,0.2,x,0.4,x,0.333,x,x
+BBQ_Aries,1.1,0.555,x,x,x,x,x,x,0,x,x,x,x,x,0,x,x
