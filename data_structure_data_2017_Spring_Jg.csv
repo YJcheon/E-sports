@@ -1,0 +1,17 @@
+﻿2017_spring,,,,,,,,,,,,,,,,,
+Jg,KDA,킬관여율,KT_Score,Longzhu_Crash,SSG_Ambition,SSG_Haru,Afreeca_Spirit,Afreeca_Mowgli,Rox_Seonghwan,Rox_Mightybear,SKT_T1_Blank,SKT_T1_Peanut,Jin_Air_Umti,Jin_Air_Raise,MVP_Beyond,BBQ_Bless,KDM_Punch
+KT_Score,4.6,0.693,x,1,1,0.5,0.6,1,1,x,0,0.5,0.8,x,0.2,1,0.6
+Longzhu_Crash,2.7,0.662,0,x,0.333,0,0.5,x,0.75,0.5,0,0.5,0.4,x,0.4,0.8,0.6
+SSG_Ambition,3,0.653,0,0.667,x,x,0,x,0.5,x,x,0,1,x,1,x,1
+SSG_Haru,4.2,0.672,0.5,1,x,x,0.25,1,1,x,x,0.667,1,x,1,0.8,1
+Afreeca_Spirit,3.5,0.682,0.4,0.5,1,0.75,x,x,0.667,0,x,0.75,0.333,1,0.333,0.4,0
+Afreeca_Mowgli,3.5,0.694,0,x,x,0,x,x,x,x,x,0,x,x,1,x,1
+Rox_Seonghwan,2.4,0.641,0,0.25,0.5,0,0.333,x,x,x,x,0,0.8,x,0,0.667,0.667
+Rox_Mightybear,3.9,0.643,x,0.5,x,x,1,x,x,x,0,0.5,x,x,0.667,0.667,0.667
+SKT_T1_Blank,9.2,0.703,1,1,x,x,x,x,x,1,x,x,x,x,x,x,1
+SKT_T1_Peanut,5.1,0.672,0.5,0.5,1,0.333,0.25,1,1,0.5,x,x,1,x,1,1,1
+Jin_Air_Umti,2.2,0.617,0.2,0.6,0,0,0.667,x,0.2,x,x,0,x,x,0.25,0,0.5
+Jin_Air_Raise,2.8,0.724,x,x,x,x,0,x,x,x,x,x,x,x,0.5,1,0.5
+MVP_Beyond,2.7,0.675,0.8,0.6,0,0,0.667,0,1,0.333,x,0,0.75,0.5,x,0.6,0.8
+BBQ_Bless,2.2,0.622,0,0.2,x,0.2,0.6,x,0.333,0.333,x,0,1,0,0.4,x,0.8
+KDM_Punch,2,0.698,0.4,0.4,0,0,1,0,0.333,0.333,0,0,0.5,0.5,0.2,0.2,x
